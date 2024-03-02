@@ -1,0 +1,8 @@
+# Matches everything 
+*
+
+# But not these:
+!Resistor/main.cpp
+!Resistor/resist.cpp
+!Resistor/resist.h
+!.gitignore 
